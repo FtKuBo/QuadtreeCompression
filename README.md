@@ -1,2 +1,2 @@
 "# quadtree-compression-with-python"  
-codé au lycée
+high school code
