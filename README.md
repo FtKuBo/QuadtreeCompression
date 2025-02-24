@@ -1,4 +1,4 @@
-"# quadtree-compression-with-python"  
+# quadtree-compression-with-python
 Quadtree compression algorithme using python (high school final project)
 
 The image can be changed just turn the new image into black and white using the "noir-blanc" code
