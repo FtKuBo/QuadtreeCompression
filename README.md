@@ -1,9 +1,15 @@
 # quadtree-compression-with-python
-Quadtree compression algorithme using python (high school final project)
+A Python implementation of the quadtree compression algorithm for images — created as a high school final project.
 
-The image can be changed just turn the new image into black and white using the "noir-blanc" code
+## 🧠 What It Does
+This project converts an image into black and white, then compresses it using a quadtree data structure.
 
-Choose the level of compression that you want in the main.py file : second argument build_quadtreeimg bottom of the page
+## 🛠️ How to Use
+- Clone the repository.
+- Run main.py.
+- Adjust the compression level in main.py if needed.
+- View the resulting compressed image.
 
+## 📷 Example Output
 
 https://github.com/FtKuBo/quadtree-compression-with-python/assets/116817411/7dd6ed8e-f5db-4330-bf2a-575980357db8
