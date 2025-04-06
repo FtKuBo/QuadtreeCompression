@@ -10,6 +10,6 @@ This project converts an image into black and white, then compresses it using a 
 - Adjust the compression level in main.py if needed.
 - View the resulting compressed image.
 
-## 📷 Example Output
+## 🎥 Video Demo
 
 https://github.com/FtKuBo/quadtree-compression-with-python/assets/116817411/7dd6ed8e-f5db-4330-bf2a-575980357db8
